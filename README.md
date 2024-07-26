@@ -1,4 +1,4 @@
 # OnePieceParallax
 simplest parallax ever
 # LINK
-### https://intzaar.github.io/OnePieceParallax/
+https://jade-semolina-fc10ce.netlify.app/
